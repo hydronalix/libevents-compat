@@ -10,7 +10,7 @@
 #include <string>
 #include <vector>
 
-#include "nlohmann_json/include/nlohmann/json_fwd.hpp"
+#include "json/single_include/nlohmann/json.hpp"
 
 namespace events
 {
